@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%246SEA47&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Rajan+%F0%9F%91%8B;Engineering+Student;Tech+Enthusiast" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%246SEA47&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+SUMIT+%F0%9F%91%8B;Engineering+Student;Tech+Enthusiast" alt="Headline" />
 </div>
 
 <p align="center">
@@ -70,7 +70,8 @@
 </div>
 
 <div align="center">
-    <a href="https://www.geeksforgeeks.org/user/rajankumsafq/" target="_blank" rel="noreferrer">
+    <a href="https://www.geeksforgeeks.org/user/sumitkumar4509
+/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG Profile" />
     </a>
 </div>
