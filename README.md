@@ -62,8 +62,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Sumit4509&show_icons=true&theme=radical" alt="Sumit's GitHub Stats"/>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit4509&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
+    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Sumit4509&show_icons=true&theme=radical" alt="Sumit's GitHub Stats"/>
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit4509&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical">
 </div>
 
 <div align="center">
