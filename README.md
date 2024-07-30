@@ -67,7 +67,7 @@
 </div>
 
 <div align="center">
-    <img src="https://leetcard.jacoblin.cool/sumit0945?theme=radical&font=Jacques%20Francois%20Shadow" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/sumit0945?theme=dark&font=Jacques%20Francois%20Shadow" alt="LeetCode Stats"/>
 </div>
 
 <div align="center">
